@@ -22,6 +22,8 @@
             <a href="#signup" onclick="showSignup()">Inscription</a>
             <a href="#array" onclick="showArray()">Tableau</a>
             <a href="#multiply" onclick="showMultiply()">Multiplication</a>
+            <a href="#addition" onclick="showAddition()">Addition</a>
+            <a href="#substract" onclick="showSubstraction()">Soustraction</a>
             <a href="#api" onclick="showApi()">API</a>
         </nav>
         <!-- Ici ma barre de navigation (navbar) -->
@@ -39,7 +41,9 @@
     <script src="js/init.js"></script>
     <script src="js/inscription.js"></script>
     <script src="js/multiply.js"></script>
+    <script src="js/addition.js"></script>
     <script src="js/api.js"></script>
+    <script src="js/substraction.js"></script>
     <div>
         <span id="copyright"> <small>&copy; Alaji 2021</small></span>
     </div>
