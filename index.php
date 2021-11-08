@@ -25,7 +25,6 @@
             <a href="#addition" onclick="showAddition()">Addition</a>
             <a href="#multiply" onclick="showMultiply()">Multiplication</a>
             <a href="#divide" onclick="showDivision()">Division</a>
-            <a href="#addition" onclick="showAddition()">Addition</a>
             <a href="#substract" onclick="showSubstraction()">Soustraction</a>
             <a href="#api" onclick="showApi()">API</a>
         </nav>
