@@ -5,8 +5,8 @@ function showSubstraction() {
         success: function(response) {
             document.getElementById("container").innerHTML = response;
         },
-        error: function(response) {
-            console.log(response);
+        error: function(err) {
+            console.log(err);
         },
     });
 }
