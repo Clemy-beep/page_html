@@ -79,7 +79,7 @@ function getWeather() {
                     weatherTranslation = "neige";
                     document.getElementById("weather-icon").className = "fas fa-snowflake";
                     break;
-                case "mist":
+                case "fog":
                     weatherTranslation = "brouillard";
                     document.getElementById("weather-icon").className = "fas fa-smog";
                     break;
